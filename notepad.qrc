@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>notepad.qrc</file>
+        <file>icons/print.png</file>
+        <file>icons/new.png</file>
+        <file alias="combinear.qss">style/Combinear.qss</file>
+        <file alias="adaptic.qss">style/Adaptic.qss</file>
+        <file>style/Ubuntu.qss</file>
+        <file>style/ManjaroMix.qss</file>
+        <file>style/Chatbee.qss</file>
+        <file>style/material.qss</file>
+        <file>icons/underline.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/italic.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/bold.png</file>
+    </qresource>
+</RCC>
